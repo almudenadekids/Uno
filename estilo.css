@@ -1,0 +1,47 @@
+body{
+    background: rgb(255, 61, 61);
+    color: rgb(0, 104, 136);
+    text-align: center;
+}
+
+.principal{
+    background: rgb(37, 137, 231);
+    color: rgb(2, 51, 107);
+}
+
+.imagen1{
+    width: 60%;
+}
+.segunda{
+    background:blue ;
+    color: white;
+}
+.imagen2{
+     width: 30%;
+}
+
+.tercera{
+    background:rgb(187, 135, 135) ;
+    color: rgb(0, 22, 63);
+}
+.imagen3{
+    width: 20%;
+}
+
+.benchnine-regular {
+    font-family: "BenchNine", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 100px;
+  }
+.teko-uniquifier> {
+    font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+  }
+  .oooh-baby-regular {
+    font-family: "Oooh Baby", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
