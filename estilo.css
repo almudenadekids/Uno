@@ -34,12 +34,12 @@ body{
     font-style: normal;
     font-size: 100px;
   }
-.teko-uniquifier> {
+.teko {
     font-family: "Teko", sans-serif;
     font-optical-sizing: auto;
     font-weight: <weight>;
     font-style: normal;
-  }
+}
   .oooh-baby-regular {
     font-family: "Oooh Baby", cursive;
     font-weight: 400;
